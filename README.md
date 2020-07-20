@@ -4,8 +4,10 @@
 ~~第一次写js，练手，没啥技术含量。~~  
   
   
+Github: [https://github.com/Avenshy/YoocExamDetail](https://github.com/Avenshy/YoocExamDetail)  
+GreasyGork: [https://greasyfork.org/zh-CN/scripts/407454-%E6%98%93%E7%8F%AD%E4%BC%98%E8%AF%BE%E8%80%83%E8%AF%95%E6%9F%A5%E5%8D%B7](https://greasyfork.org/zh-CN/scripts/407454-%E6%98%93%E7%8F%AD%E4%BC%98%E8%AF%BE%E8%80%83%E8%AF%95%E6%9F%A5%E5%8D%B7)  
 预览图：  
-![image](https://raw.githubusercontent.com/Avenshy/YoocExamDetail/master/preview2.png)>>安装后>>![image](https://raw.githubusercontent.com/Avenshy/YoocExamDetail/master/preview3.png)  
+![image](https://raw.githubusercontent.com/Avenshy/YoocExamDetail/master/preview1.png)>>安装后>>![image](https://raw.githubusercontent.com/Avenshy/YoocExamDetail/master/preview2.png)  
 
 ## 更新日志
 
