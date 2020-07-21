@@ -15,5 +15,8 @@ GreasyGork: [https://greasyfork.org/zh-CN/scripts/407454-%E6%98%93%E7%8F%AD%E4%B
 
 ## 更新日志
 
+### `v0.2`
+* 从其他页面切换到在线考试时也能生效了
+
 ### `v0.1`
 * 敲出首个版本的代码
