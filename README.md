@@ -1,7 +1,10 @@
 # YoocExamDetail / 易班优课考试查卷  
 让禁止查卷的考试也能查卷。（不是在考试前偷看试卷！）  
   
-~~（第一次写js，练手，没啥技术含量。）~~  
+```diff  
+- 脚本已失效，脚本已失效，脚本已失效  
+! 希望人没事🙏
+```
   
   
 Github: [https://github.com/Avenshy/YoocExamDetail](https://github.com/Avenshy/YoocExamDetail)  
